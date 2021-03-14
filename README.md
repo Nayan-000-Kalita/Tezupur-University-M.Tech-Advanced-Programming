@@ -1,7 +1,7 @@
-# Advanced-Programming using C++ and JAVA
-<h3> Topics <h3>
+# Advanced-Programming using C++ and JAVA (File Handling)
+<h3> Content: <h3>
   <p>
-   <a href="https://github.com/Nayan-000-Kalita/Advanced-Programming-Lab/tree/File_Reading">Q1. File_Reading
+   <a href="https://github.com/Nayan-000-Kalita/Advanced-Programming-Lab/tree/File_Reading">Q1. File Reading in a directory
 <br>
 </a>
    Write a program that recursively looks through all folders (within a certain location to be provided by user as a string) and lists all files with a given extension (say, .doc or .xml). 
