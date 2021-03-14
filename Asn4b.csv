@@ -1,0 +1,100 @@
+﻿Restaurant ID,Longitude,Latitude,Cuisines,Price range,Aggregate rating,Rating text,Votes
+6317637,121.027535,14.565443,French Japanese Desserts,3,4.8,Excellent,314
+6304287,121.014101,14.553708,Japanese,3,4.5,Excellent,591
+6300002,121.056831,14.581404,Seafood Asian Filipino Indian,4,4.4,Very Good,270
+6318506,121.056475,14.585318,Japanese Sushi,4,4.9,Excellent,365
+6314302,121.057508,14.58445,Japanese Korean,4,4.8,Excellent,229
+18189371,121.056314,14.583764,Chinese,3,4.4,Very Good,336
+6300781,120.9796667,14.53133333,Asian European,4,4,Very Good,520
+6301290,120.9793333,14.54,Seafood Filipino Asian European,4,4.2,Very Good,677
+6300010,120.98009,14.55299,European Asian Indian,4,4.9,Excellent,621
+6314987,121.056532,14.572041,Filipino,3,4.8,Excellent,532
+6309903,121.057916,14.567689,Filipino Mexican,3,4.9,Excellent,1070
+6309455,121.06082,14.570849,American Ice Cream Desserts,3,4.2,Very Good,488
+6318433,121.075419,14.649503,Filipino Mexican,3,4.8,Excellent,294
+6310470,121.0335917,14.59345,Filipino,3,4.2,Very Good,458
+6314605,121.03811,14.59889,Korean,3,4.3,Very Good,223
+18185059,121.05704,14.237082,Cafe American Italian Filipino,3,3.6,Good,29
+18182702,121.0565874,14.23767897,Italian Pizza,3,4,Very Good,72
+6318213,120.951589,14.101834,Filipino,3,4.5,Excellent,211
+18255654,121.045878,14.55436,Cafe Korean Desserts,2,4.5,Excellent,118
+6308205,121.04622,14.549337,Cafe Bakery American Italian,4,4.4,Very Good,392
+6315438,121.053725,14.545858,Seafood American Mediterranean Japanese,4,4.7,Excellent,535
+6310406,121.0534998,14.54565535,American Asian Italian Seafood,4,4.5,Excellent,618
+6600681,-47.88178889,-15.76414167,Fast Food French,2,3,Average,6
+6601005,-47.88266667,-15.7775,Cafe,1,3.8,Good,9
+6600292,-47.88213611,-15.75747222,Bakery,2,3.7,Good,11
+6600441,-47.88816667,-15.75883333,Brazilian,3,3.8,Good,11
+6600970,-47.91566667,-15.83116667,Pizza,2,3.2,Average,11
+6600379,-47.91566667,-15.831,Japanese,3,3.1,Average,10
+6600214,-47.9075,-15.82,Arabian,3,3.7,Good,8
+6601218,-47.91016667,-15.82733333,Japanese,4,3.7,Good,5
+6600060,-47.89016667,-15.797,Brazilian Cafe,1,0,Not rated,2
+6600083,-47.92366667,-15.83133333,Italian,4,4.1,Very Good,12
+6601515,-48.019,-15.83716667,Pizza,4,3.1,Average,9
+6601361,-48.01909167,-15.839775,Bar Food Brazilian,3,3.6,Good,9
+6601602,-48.01666667,-15.83483333,Mexican Grill,4,4.3,Very Good,29
+6601589,-47.889,-15.7865,International,4,4.2,Very Good,17
+6601862,-47.872359,-15.860621,Peruvian Latin American,4,3.6,Good,5
+6601595,-47.95628333,-15.83451389,American Grill,4,4,Very Good,10
+6601158,-47.87283333,-15.82566667,Seafood,4,3.2,Average,6
+6600427,-47.8685,-15.819,International,4,4.9,Excellent,30
+6600116,-47.885812,-15.720118,Italian,4,3.3,Average,8
+6601457,-47.92102778,-15.79753056,American Burger,2,3.6,Good,9
+7303219,-43.377,-23.0115,Seafood Bar Food Brazilian,4,4,Very Good,7
+7304307,-43.178826,-22.905293,Desserts Cafe,4,4.8,Excellent,29
+7301215,-43.18669167,-22.97207222,Juices Healthy Food,3,4.7,Excellent,24
+7300596,-43.17583333,-22.96216667,Beverages Bar Food Fast Food,3,4.5,Excellent,29
+7300612,-43.176,-22.96516667,Lebanese,4,4.2,Very Good,11
+7300704,-43.191,-22.98683333,Burger,3,4.8,Excellent,19
+7300955,-43.227042,-22.973507,Brazilian Bar Food,4,4.9,Excellent,40
+7300521,-43.211425,-22.98520833,Brazilian Healthy Food Juices Pizza,3,4.6,Excellent,21
+7300515,-43.203,-22.98533333,Brazilian Bar Food,4,4.9,Excellent,49
+7300483,-43.20520833,-22.98531944,Brazilian,4,4.6,Excellent,21
+7301064,-43.219563,-22.966647,Brazilian,3,4.3,Very Good,14
+7304312,-43.34879167,-22.99991111,Italian,4,4,Very Good,5
+7300004,-43.227,-22.98416667,Japanese,4,4.6,Excellent,25
+7300868,-43.22566667,-22.98516667,Bakery Sandwich Brazilian,4,4.4,Very Good,13
+7302637,-43.17279167,-22.963925,Brazilian,2,4.2,Very Good,7
+7302140,-43.17126389,-22.96337222,Brazilian Seafood,4,4.2,Very Good,8
+7305048,-43.341164,-22.870413,Bar Food Brazilian,3,0,Not rated,1
+7302898,-43.18736944,-22.92481389,Brazilian,4,4.7,Excellent,44
+7302859,-43.21551111,-22.91370833,Brazilian Bar Food,3,4.6,Excellent,24
+7301700,-43.16266667,-22.94783333,Brazilian Bar Food,3,4.3,Very Good,10
+6706313,-46.64516667,-23.55066667,Italian Pizza,4,4.5,Excellent,49
+6704326,-46.64633333,-23.559,Steak BBQ,4,4.4,Very Good,17
+6711179,-46.65866667,-23.55616667,Indian,3,3.1,Average,5
+6702797,-46.657523,-23.55671,Brazilian,4,4.1,Very Good,15
+6700475,-46.666851,-23.581688,Beverages International,4,4.8,Excellent,59
+6713413,-46.67511,-23.582135,French Brazilian Beverages,4,4.6,Excellent,30
+6714340,-46.683888,-23.585324,Brazilian Grill,3,3.9,Good,5
+6710645,-46.67566667,-23.581,Brazilian,2,0,Not rated,0
+6700402,-46.666041,-23.561568,French,4,3.4,Average,73
+6700846,-46.657418,-23.571638,Sushi Japanese,4,3.5,Good,9
+6702159,-46.66983333,-23.5655,BBQ Grill Brazilian,4,4.3,Very Good,39
+6711666,-46.67133333,-23.59233333,Sushi,4,3.9,Good,12
+6701257,-46.68133333,-23.56483333,Gourmet Fast Food Burger,4,4.3,Very Good,68
+6706211,-46.64159444,-23.54664167,Brazilian Italian,4,4.3,Very Good,46
+6705858,-46.643425,-23.545163,Italian,4,4.4,Very Good,37
+6701419,-46.63716667,-23.5995,Brazilian Mineira,3,0,Not rated,2
+6703956,-46.698574,-23.622925,Brazilian,2,0,Not rated,2
+6709580,-46.581672,-23.486535,Brazilian North Eastern,4,4.4,Very Good,22
+6703176,-46.63566667,-23.58516667,Brazilian Bar Food Beverages,3,4.6,Excellent,58
+6713772,-46.746958,-23.609207,Lebanese Arabian,4,4.1,Very Good,11
+17284404,-84.221535,31.610387,BBQ Burger Seafood,2,3.3,Average,35
+17284203,-84.207095,31.608743,American BBQ,1,3.3,Average,25
+17284105,-84.154,31.5772,,1,3.4,Average,34
+17284302,-84.2194,31.6158,Mexican,1,3.4,Average,45
+17284397,-84.206944,31.622412,Coffee and Tea Sandwich,1,3.4,Average,26
+17284211,-84.1759,31.5882,,1,3.4,Average,36
+17284094,-84.2193,31.616,Fast Food,1,3.5,Good,67
+17284409,-84.2091458,31.6155186,Asian Chinese Vegetarian,1,3.9,Good,141
+17284139,-84.205718,31.604905,Pizza Bar Food Sandwich,2,3.7,Good,147
+17284403,-84.223278,31.612121,Steak Tapas Bar Food,4,3.5,Good,51
+17284145,-84.2191,31.6156,Chinese Seafood Vegetarian,2,3.6,Good,88
+17284150,-84.212,31.6104,Chinese,1,3.8,Good,153
+17284158,-84.1534,31.5751,,1,3.9,Good,160
+17284175,-84.2228,31.6077,American Burger Sandwich,2,3.5,Good,57
+17284179,-84.2229,31.6185,American Steak,2,3.5,Good,58
+17284197,-84.2164,31.6137,Japanese Steak Sushi,3,3.6,Good,115
+17284241,-84.2233,31.6118,Japanese Steak Sushi,3,3.5,Good,51
